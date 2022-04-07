@@ -1,0 +1,16 @@
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\bin\Debug\net5.0\SimuladorDeBatalhaTheWitcher.exe
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\bin\Debug\net5.0\SimuladorDeBatalhaTheWitcher.deps.json
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\bin\Debug\net5.0\SimuladorDeBatalhaTheWitcher.runtimeconfig.json
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\bin\Debug\net5.0\SimuladorDeBatalhaTheWitcher.runtimeconfig.dev.json
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\bin\Debug\net5.0\SimuladorDeBatalhaTheWitcher.dll
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\bin\Debug\net5.0\ref\SimuladorDeBatalhaTheWitcher.dll
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\bin\Debug\net5.0\SimuladorDeBatalhaTheWitcher.pdb
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\SimuladorDeBatalhaTheWitcher.csproj.AssemblyReference.cache
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\SimuladorDeBatalhaTheWitcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\SimuladorDeBatalhaTheWitcher.AssemblyInfoInputs.cache
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\SimuladorDeBatalhaTheWitcher.AssemblyInfo.cs
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\SimuladorDeBatalhaTheWitcher.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\SimuladorDeBatalhaTheWitcher.dll
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\ref\SimuladorDeBatalhaTheWitcher.dll
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\SimuladorDeBatalhaTheWitcher.pdb
+D:\Workspace\C#\Projetos\SimuladorDeBatalhaTheWitcher\obj\Debug\net5.0\SimuladorDeBatalhaTheWitcher.genruntimeconfig.cache

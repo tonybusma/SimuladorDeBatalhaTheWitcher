@@ -1,2 +1,12 @@
 # SimuladorDeBatalhaTheWitcher
-Simulador de luta baseado no mundo de The Witcher, feito utilizando C# e os conceitos de POO. O Jogo consiste na escolha de um bruxo pelo usuário e seu respectivo nível. Em seguida, o usuário escolhe um contrato de monstro e o nível. O programa irá gerar e descrever a batalha, mostrando, ao final, se o bruxo conseguiu derrotar o monstro e quanto será a recompensa (que varia de acordo com o monstro e o nível) ou se ele foi derrotado. 
+
+
+##### Seja bem-vindo ao mundo de The Witcher, de Andrzej Sapkowski.		
+
+
+
+![the-witcher-3-wild-hunt-4987](C:\Users\luisb\Downloads\the-witcher-3-wild-hunt-4987.jpg)
+
+
+
+Você assumirá o papel de um bruxo, treinado e preparado para matar monstros. Em troca, recebe um pagamento daqueles que contratam os seus serviços. 
