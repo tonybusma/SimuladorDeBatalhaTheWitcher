@@ -34,6 +34,7 @@ Execute a aplicação:
 
 ###### Projeto pessoal, desenvolvido e idealizado por:
 
-[<img src="" width=115 > <br> <sub> Tony Busma </sub>](https://github.com/tonybusma) |
+[<img src="https://user-images.githubusercontent.com/90411176/171323461-8c149ca3-f61c-4d21-b8b5-04319a5b7189.jpg" width=115 > <br> <sub> Tony Busma </sub>](https://github.com/tonybusma) |
 | :---: |
+
 > **Status do Projeto:** Em desenvolvimento :warning:
