@@ -8,9 +8,9 @@ Software simples que simula um combate entre dois personagens, descrevendo em ca
 Você assumirá o papel de um bruxo, treinado e preparado para matar monstros. Em troca, recebe um pagamento daqueles que contratam os seus serviços.
 
 ## Ferramentas de desenvolvimento ##
-![Badge](https://img.shields.io/static/v1?label=VS-Code&message=Editor/IDE&color=blue&style=plastic&logo=csharp)
+![Badge](https://img.shields.io/static/v1?label=VS-Code&message=editor/IDE&color=blue&style=plastic&logo=csharp)
 
-![Badge](https://img.shields.io/static/v1?label=CSharp&message=Linguagem&color=sucess&style=plastic&logo=CSharp)
+![Badge](https://img.shields.io/static/v1?label=CSharp&message=language&color=sucess&style=plastic&logo=CSharp)
 
 
 
