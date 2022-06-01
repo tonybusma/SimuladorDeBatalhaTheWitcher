@@ -15,15 +15,15 @@ Você assumirá o papel de um bruxo, treinado e preparado para matar monstros. E
 ## Como rodar o jogo :floppy_disk:
 No Git Bash, faça um clone do projeto:
 
-  *https://github.com/tonybusma/SimuladorDeBatalhaTheWitcher.git*
+  > *git clone https://github.com/tonybusma/SimuladorDeBatalhaTheWitcher.git*
 
 Acesse a pasta do projeto:
 
-  *cd SimuladorDeBatalhaTheWitcher*
+  > *cd SimuladorDeBatalhaTheWitcher*
 
 Execute a aplicação:
 
-  *dotnet run*
+  > *dotnet run*
 
 ## Como jogar :video_game:
 :point_right: Inicialmente você deverá escolher um dos cinco bruxos e escolher o seu nível.
