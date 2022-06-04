@@ -6,7 +6,7 @@
 Desenvolver um jogo onde você assumirá o papel de um bruxo treinado para matar monstros e em troca recebe um pagamento daqueles que contratam os seus serviços.
 
 ## Ferramentas de desenvolvimento :computer:
-![Badge](https://img.shields.io/static/v1?label=VS-Code&message=editor/IDE&color=blue&style=plastic&logo=csharp)
+![Badge](https://img.shields.io/static/v1?label=VS-Code&message=editor/IDE&color=blue&style=plastic&logo=visualstudiocode)
 
 ![Badge](https://img.shields.io/static/v1?label=CSharp&message=language&color=sucess&style=plastic&logo=CSharp)
 
