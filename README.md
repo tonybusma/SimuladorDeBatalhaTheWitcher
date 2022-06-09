@@ -3,12 +3,12 @@
 ![the-witcher-geralt-de-rivia](https://user-images.githubusercontent.com/90411176/171319618-df45e648-36b7-45de-8f51-006c6f89b3c9.jpg)
 
 ## Descrição do projeto :pencil2:
-Desenvolver um jogo onde você assumirá o papel de um bruxo treinado para matar monstros e em troca recebe um pagamento daqueles que contratam os seus serviços.
+Desenvolvimento do jogo, no qual você assumirá o papel de um bruxo treinado para matar monstros e em troca recebe um pagamento daqueles que contratam os seus serviços.
 
 ## Ferramentas de desenvolvimento :computer:
-![Badge](https://img.shields.io/static/v1?label=VS-Code&message=editor/IDE&color=blue&style=plastic&logo=visualstudiocode)
+![Badge](https://img.shields.io/static/v1?label=VScode&message=editor/IDE&color=blue&style=plastic&logo=visualstudiocode)
 
-![Badge](https://img.shields.io/static/v1?label=CSharp&message=language&color=sucess&style=plastic&logo=CSharp)
+![Badge](https://img.shields.io/static/v1?label=CSharp&message=language&color=sucess&style=plastic&logo=csharp)
 
 ## Como rodar o jogo :floppy_disk:
 No Git Bash, faça um clone do projeto:
